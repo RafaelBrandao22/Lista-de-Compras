@@ -10,7 +10,7 @@
     <h1>Lista de Compras Rafael</h1>
 </body>
 <divclass="content--body"></divclass>
-    <ol> Alimentos
+    <ol> Alimentos: itens de mercearia, frutas, verduras, bebidas
         <li>Macarrão</li>
         <li>Molho de tomate</li>
         <li>Queijo</li>
@@ -22,7 +22,7 @@
         <li>Açúcar</li>
         <li>Sorvete</li>
     </ol>
-<ol>Produtos de limpeza</ol>
+<ol>Produtos de limpeza: itens de higiene pessoal, higiene da casa</ol>
 <li>Sabonete</li>
 <li>desodorante</li>
 <div></div>
